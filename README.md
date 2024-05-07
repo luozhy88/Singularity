@@ -1,4 +1,5 @@
 # Singularity
+https://depot.galaxyproject.org/singularity/
 ## 进入镜像
  singularity shell depot.galaxyproject.org-singularity-cutadapt-3.4--py39h38f01e4_1.img
  
